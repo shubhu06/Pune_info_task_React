@@ -1,0 +1,57 @@
+.navbar-brand {
+    height: 10px;
+}
+
+a {
+    color: aliceblue;
+}
+
+li {
+    list-style: none;
+}
+
+.login_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+
+}
+b{
+    color: rgb(34, 160, 114);
+    text-decoration: underline;
+  }
+.card{
+
+    box-shadow: 3px 3px 3px 3px ;
+  }
+.custom-img {
+    align-items: center;
+    width: 100%;
+    height: 150px
+}
+.carousal-img{
+    width: 100%;
+    height: 600px;
+}
+.heading{
+    text-decoration: underline;
+}
+
+.nav-item {
+    font-size: large;
+}
+
+.thick-border{
+    border: 2px solid;
+}
+
+.list-unstyled a{
+    text-decoration: none;
+}
+
+
+.sweep-to-right:before{
+    background-color: #fff;
+border-radius: 0.375rem;
+}
